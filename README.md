@@ -27,7 +27,7 @@ This is a responsive React to-do app built with Vite for the Trybe-x week 4 asse
 1. Clone this repository.
 2. Install dependencies: `npm install` (or `yarn install`)
 3. Start the development server: `npm run dev` (or `yarn dev`)
-4. Open http://localhost:3000 (or your assigned development port) in your browser.
+4. Open http://localhost:5173 (or your assigned development port) in your browser.
 
 **Adding New Tasks:**
 
@@ -46,17 +46,11 @@ This is a responsive React to-do app built with Vite for the Trybe-x week 4 asse
 
 1. Use the filter buttons ("All," "Completed," or "Pending") to display specific task lists.
 
-**Deployment:**
-
-(Optional: If you plan to deploy the app, provide instructions on how to build and deploy it)
-
 **Contributing:**
-
-(Optional: If you'd like to encourage contributions, include guidelines here)
+I h'd like to encourage contributions to this repo. Feel free to fork it or clone it. 
 
 **License:**
-
-(Specify the license under which you're releasing the code, e.g., MIT)
+MIT
 
 **Disclaimer:**
 
